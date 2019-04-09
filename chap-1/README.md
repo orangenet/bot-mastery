@@ -21,7 +21,7 @@ Question: Do I need Visual Studio, dotnet 2.1, and and and...? No! We designed t
 1. Login with your Github account: https://gitpod.io/api/login
 2. Click the button below!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rinormaloku/bot-mastery)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/orangenet/bot-mastery)
 
 #### Running the first app
 1. Run the application by executing the command below:

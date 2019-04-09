@@ -26,4 +26,4 @@ _Sections without a link are still not added here._
 This repository comes preprepared to run in Gitpod(dot)io. Gitpod is an Online IDE based on Visual Studio Code. To learn more about it and get your first bot up and running follow up with the bot under getting started [Chapter 1](./chap-1/README/md)
 
 As simple as clicking here:
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rinormaloku/bot-mastery)And continuing on with the exercises!
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/orangenet/bot-mastery)And continuing on with the exercises!
