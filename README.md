@@ -2,7 +2,7 @@
 
 In this repository we will go through exercises taken from our Bot Framework "[Chat-bot-in-a-Day](https://www.orange-networks.com/products/ai)" Workshop.
 
-They exercises are designed to build up and gradually introduce new concepts from: 
+The exercises are designed to build up and gradually introduce new concepts from: 
 * Starting with a simple ASP.NET Web Application.
 * Adding dependencies so that the bot replies, 
 * Adding libraries that take the heavy-lifting of maintaining conversation state.
