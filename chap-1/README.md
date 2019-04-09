@@ -33,7 +33,7 @@ cd ./chap-1/Hello && \
 ![Gitpod](./images/gitpod-generated-url.png)
 
 3. Open the emulator and create a Bot as shown below, using the URL in step 2 as the Endpoint URL:
-![Configure bot emulator](./images/configure-bot-in-emulator.png)
+![Configure bot emulator](../images/configure-bot-in-emulator.png)
 
 Start chatting with the bot!
-![chatting](./images/chatting.png)
+![chatting](../images/chatting.png)

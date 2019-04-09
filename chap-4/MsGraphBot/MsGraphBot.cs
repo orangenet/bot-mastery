@@ -10,7 +10,7 @@ namespace MsGraphBot
 {
     public class MsGraphBot : IBot
     {
-        private const string ConnectionName = "botoauth";
+        private const string ConnectionName = "BotAuthentication";
 
         private const string LoginPromptName = "loginPrompt";
         private const string ConfirmPromptName = "confirmPrompt";
@@ -24,7 +24,7 @@ namespace MsGraphBot
 
         private readonly OAuthPromptSettings _oauthPromptSettings = new OAuthPromptSettings
         {
-            ConnectionName = ConnectionName,
+            ConnectionName = ConnectionName, // The connection name used in New Connection Setting
             Text = "Please Sign In",
             Title = "Sign In",
             Timeout = 300000, // Time to log in
