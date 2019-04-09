@@ -36,7 +36,7 @@ namespace MsGraphBot
             {
                 var secretKey = Configuration.GetSection("botFileSecret")?.Value;
 
-                var botConfig = BotConfiguration.Load(@".\MsGraphBot.bot", secretKey);
+                var botConfig = BotConfiguration.Load(@"./MsGraphBot.bot", secretKey);
                 services.AddSingleton(sp => botConfig);
 
                 var service = botConfig.Services.FirstOrDefault(s => s.Type == "endpoint" && s.Name == "development");

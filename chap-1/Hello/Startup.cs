@@ -31,7 +31,7 @@ namespace Hello
            {
                var secretKey = Configuration.GetSection("botFileSecret")?.Value;
 
-                var botConfig = BotConfiguration.Load(@".\Hello.bot", secretKey);
+                var botConfig = BotConfiguration.Load(@"./Hello.bot", secretKey);
                services.AddSingleton(sp => botConfig);
 
                 var service = botConfig.Services.Where(s => s.Type == "endpoint" && s.Name == "development").FirstOrDefault();

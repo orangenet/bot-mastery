@@ -9,14 +9,6 @@
       "appPassword": "",
       "id": "1"
     },
-    {
-      "type": "endpoint",
-      "name": "production",
-      "endpoint": "https://Hello.azurewebsites.net/api/messages",
-      "appId": "<YOUR APP ID>",
-      "appPassword": "<YOUR APP PASSWORD>",
-      "id": "2"
-    }
   ],
   "padlock": "",
   "version": "2.0"
