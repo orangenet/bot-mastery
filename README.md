@@ -11,10 +11,10 @@ The exercises are designed to build up and gradually introduce new concepts from
 ## Table of Contents
 
 Chapters:
-1. [Hello World Bot](./chap-1/README/md)
+1. [Hello World Bot](./chap-1/README.md)
 2. Maintaining Conversation State
 3. Dialogs and Conversation flow
-4. [Authentication with Microsoft AAD](./chap-4/README/md)
+4. [Authentication with Microsoft AAD](./chap-4/README.md)
 5. Smart bots with AI
 6. QnA Bot with Cognitive Services
 7. Proactive Messaging with Rich Media
