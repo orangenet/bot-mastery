@@ -7,4 +7,4 @@ What we will learn:
 2. Recieving Access Token.
 2. Consuming MS Graph API.
 
-Checkout our article to follow along [LINK-UPDATE].
+Checkout our article to follow along [Access Outlook Calendar with Bot Framework and Microsoft Graph](https://www.orange-networks.com/blogs/249-access-outlook-calendar-with-bot-framework-and-microsoft-graph).
